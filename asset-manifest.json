@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gagan96verma/react-project/static/css/main.4b847592.chunk.css",
+    "main.js": "/gagan96verma/react-project/static/js/main.cbf22770.chunk.js",
+    "main.js.map": "/gagan96verma/react-project/static/js/main.cbf22770.chunk.js.map",
+    "runtime-main.js": "/gagan96verma/react-project/static/js/runtime-main.a63aee25.js",
+    "runtime-main.js.map": "/gagan96verma/react-project/static/js/runtime-main.a63aee25.js.map",
+    "static/js/2.b9109df8.chunk.js": "/gagan96verma/react-project/static/js/2.b9109df8.chunk.js",
+    "static/js/2.b9109df8.chunk.js.map": "/gagan96verma/react-project/static/js/2.b9109df8.chunk.js.map",
+    "index.html": "/gagan96verma/react-project/index.html",
+    "precache-manifest.a658b06068c5c7e2cb5f5bcdf13591f3.js": "/gagan96verma/react-project/precache-manifest.a658b06068c5c7e2cb5f5bcdf13591f3.js",
+    "service-worker.js": "/gagan96verma/react-project/service-worker.js",
+    "static/css/main.4b847592.chunk.css.map": "/gagan96verma/react-project/static/css/main.4b847592.chunk.css.map",
+    "static/js/2.b9109df8.chunk.js.LICENSE.txt": "/gagan96verma/react-project/static/js/2.b9109df8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gagan96verma/react-project/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a63aee25.js",
+    "static/js/2.b9109df8.chunk.js",
+    "static/css/main.4b847592.chunk.css",
+    "static/js/main.cbf22770.chunk.js"
+  ]
+}
