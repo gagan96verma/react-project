@@ -1,0 +1,39 @@
+body {
+  background-color: cadetblue;
+}
+.App {
+  background-color: blueviolet;
+  min-height: 400px;
+  width: 500px;
+  margin: 40px auto;
+}
+#inputFrom input {
+  background-color: darkgray;
+  border: 0;
+  width: 200px;
+  height: 50px;
+  padding: 0 20px;
+  margin: 20px;
+  font-size: 18px;
+  border-radius: 10px;
+  color: white;
+}
+#inputFrom input::placeholder {
+  color: white;
+}
+#inputFrom input:focus, #inputFrom button:focus {
+  outline: none;
+}
+#inputFrom input:focus {
+  outline: none;
+}
+#inputFrom button {
+  height: 50px;
+  width: 80px;
+  border-radius: 5px;
+  border: 0;
+  background-color: darkgoldenrod;
+  cursor: pointer;
+  font-weight: bolder;
+  color: white;
+}
